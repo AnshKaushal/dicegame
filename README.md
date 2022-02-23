@@ -1,1 +1,1 @@
-# dicegame
+I made this game myself :)
